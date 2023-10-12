@@ -18,6 +18,7 @@ Lien vers le projet : https://aperbet56.github.io/github_api_users/
 - CSS
 - Flexbox
 - Animation CSS au survol de la souris sur le bouton "Search"
+- Animation CSS au survol de la souris sur le champ de formulaire et sur le résultat
 - Page web responsive
 - JavaScript (fetch, fonction asynchrone, fonction fléchée, écouteur d'événement...)
 - Code JavaScript commenté
