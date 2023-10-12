@@ -28,7 +28,7 @@ const fetchGithub = async () => {
     .catch(function (err) {
       // Affichage d'un message d'erreur dans la console
       console.log(
-        "Désolé, une rreur s'est produite. Veuillez réessayer plus tard!"
+        "Désolé, une erreur s'est produite. Veuillez réessayer plus tard!"
       );
     });
 };
