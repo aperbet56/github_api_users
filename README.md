@@ -1,5 +1,7 @@
 ## GITHUB API USERS
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Mon objectif a été de construire un site web permettant de récupérer et d'afficher les données des utilisateurs de Github. Pour se faire :
@@ -12,7 +14,7 @@ Mon objectif a été de construire un site web permettant de récupérer et d'af
 
 Lien vers le projet : https://aperbet56.github.io/github_api_users/
 
-## Développez avec
+## Projet développé avec
 
 - Utilisation des balises sémantiques HTML5
 - CSS
